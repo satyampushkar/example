@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>demo_satyam</PackageId>
+    <Version>1.1.1</Version>
+    <Authors>satyam_pushkar</Authors>
+    <Company>Satyam Pushkar</Company>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>demo_satyam</id>
+    <version>1.0.0</version>
+    <authors>satyam_pushkar</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\CODE\myDev\c#\Nuget\example\library\bin\Debug\net5.0\library.dll" target="lib\net5.0\library.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+C:\CODE\myDev\c#\Nuget\example\library\bin\Debug\net5.0\library.deps.json
+C:\CODE\myDev\c#\Nuget\example\library\bin\Debug\net5.0\library.dll
+C:\CODE\myDev\c#\Nuget\example\library\bin\Debug\net5.0\ref\library.dll
+C:\CODE\myDev\c#\Nuget\example\library\bin\Debug\net5.0\library.pdb
+C:\CODE\myDev\c#\Nuget\example\library\obj\Debug\net5.0\library.csprojAssemblyReference.cache
+C:\CODE\myDev\c#\Nuget\example\library\obj\Debug\net5.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\myDev\c#\Nuget\example\library\obj\Debug\net5.0\library.AssemblyInfoInputs.cache
+C:\CODE\myDev\c#\Nuget\example\library\obj\Debug\net5.0\library.AssemblyInfo.cs
+C:\CODE\myDev\c#\Nuget\example\library\obj\Debug\net5.0\library.csproj.CoreCompileInputs.cache
+C:\CODE\myDev\c#\Nuget\example\library\obj\Debug\net5.0\library.dll
+C:\CODE\myDev\c#\Nuget\example\library\obj\Debug\net5.0\ref\library.dll
+C:\CODE\myDev\c#\Nuget\example\library\obj\Debug\net5.0\library.pdb

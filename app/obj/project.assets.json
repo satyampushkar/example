@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "demo_satyam/1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/library.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "demo_satyam/1.1.1": {
+      "sha512": "b4dGyjMMVEGeTWTYUfSuuZPTOHRskTFgF/RiWKEIop0Iay6KCLYZAj6ij9gValJxmr/O4cbxc+mYK8hItBOCvw==",
+      "type": "package",
+      "path": "demo_satyam/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        "demo_satyam.1.1.1.nupkg.sha512",
+        "demo_satyam.nuspec",
+        "lib/net5.0/library.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "demo_satyam >= 1.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\91961\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\CODE\\myDev\\c#\\Nuget\\example\\app\\app.csproj",
+      "projectName": "app",
+      "projectPath": "C:\\CODE\\myDev\\c#\\Nuget\\example\\app\\app.csproj",
+      "packagesPath": "C:\\Users\\91961\\.nuget\\packages\\",
+      "outputPath": "C:\\CODE\\myDev\\c#\\Nuget\\example\\app\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\91961\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\CODE\\myDev\\c#\\Nuget\\example\\library\\bin\\Debug": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "demo_satyam": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
