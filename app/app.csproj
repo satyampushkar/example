@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RestoreSources>$(RestoreSources);C:/CODE/myDev/c#/Nuget/example/library/bin/Debug;https://api.nuget.org/v3/index.json</RestoreSources>
+    <!--<RestoreSources>$(RestoreSources);C:/CODE/myDev/c#/Nuget/example/library/bin/Debug;https://api.nuget.org/v3/index.json</RestoreSources>-->
   </PropertyGroup>
 
   <ItemGroup>
